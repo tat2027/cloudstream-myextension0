@@ -1,0 +1,23 @@
+{
+  "name": "MyExtensionRepo",
+  "description": "CloudStream multi-website extension repository",
+  "author": "Junni",
+  "url": "https://github.com/tat2027/cloudstream-myextension0",
+  "extensions": [
+    {
+      "name": "MoviPKProvider",
+      "version": "1.0",
+      "url": "https://github.com/tat2027/cloudstream-myextension0/raw/main/src/main/kotlin/com/myextension/moviPK/MoviPKProvider.kt"
+    },
+    {
+      "name": "FilmyWapProvider",
+      "version": "1.0",
+      "url": "https://github.com/tat2027/cloudstream-myextension0/raw/main/src/main/kotlin/com/myextension/filmyWap/FilmyWapProvider.kt"
+    },
+    {
+      "name": "CineFunProvider",
+      "version": "1.0",
+      "url": "https://github.com/tat2027/cloudstream-myextension0/raw/main/src/main/kotlin/com/myextension/cineFun/CineFunProvider.kt"
+    }
+  ]
+}
